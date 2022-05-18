@@ -32,4 +32,9 @@ class Solution(object):
           index2 = j+1
           break
      return [index1,index2]
+
+'''
+Time Complexity : O(n)
+Space Complexity: O(1)
+'''
     
