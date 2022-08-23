@@ -53,7 +53,7 @@ class Solution(object):
         
         """
         Time Complexity :O(n2)
-        Space Complexity : from \mathcal{O}(\log{n})O(logn) to \mathcal{O}(n)O(n), depending on the implementation of the sorting algorithm. 
+        Space Complexity : from O(logn) to O(n), depending on the implementation of the sorting algorithm. 
         """
         
         
